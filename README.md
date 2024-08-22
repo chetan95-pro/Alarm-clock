@@ -40,8 +40,8 @@ allowed for Javascript (you can use any css framework like Bootstrap). <br>
 
 # LINKS
 
-<a href = "https://github.com/chetan95-pro/Alarm-clock.git"> <b>LIVE PRODUCT</b>
-</a> &nbsp; <a href = "https://github.com/MaanilVerma/Alarm-Clock"> <b>CODE</b>
-</a> <br>
+<a href = "https://github.com/chetan95-pro/Alarm-clock.git"> <b>CODE</b> </a>
+&nbsp; <a href = "https://alram-clock.netlify.app/"> <b>LIVE PRODUCT</b> </a>
+<br>
 
 ---
